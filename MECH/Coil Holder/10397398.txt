@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-26072024-979341";"";
+"REFERENCE";"50M030050P025";"";
+"TraceParts.PartTitle";"Screw Crossed Drive M3 25.0 mm PA Natural";"";
+"TraceParts.InstanceId";"90-26072024-9793418LQ3G7DUN8W2HWKD5P6R882GF";"";
+"SUPPLIER";"Essentra Components";"";
+"DESIGN";"Screw Crossed Drive M3 25.0 mm PA Natural";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.1";"";

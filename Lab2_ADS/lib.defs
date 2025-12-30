@@ -1,0 +1,4 @@
+INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
+INCLUDE $HPEESOF_DIR/oalibs/dsp.defs
+DEFINE Lab2_ADS_lib Lab2_ADS_lib
+ASSIGN Lab2_ADS_lib libMode shared
